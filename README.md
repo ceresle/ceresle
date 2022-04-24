@@ -1,4 +1,4 @@
-on a side note
+on a side note...
 ========================
 > 17 years old
 > 
