@@ -1,10 +1,9 @@
-on a site note
+on a side note
 ========================
-17 years old
-
-CompSci Student
+> 17 years old
+> CompSci Student
+> United Kingdom
 ---------------
-United Kingdom
 
 <b>My GitHub Stats</b>
 
