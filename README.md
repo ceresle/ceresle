@@ -1,6 +1,7 @@
 on a site note
 ========================
-17 years old \n
+17 years old
+
 CompSci Student
 ---------------
 United Kingdom
