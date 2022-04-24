@@ -1,10 +1,10 @@
-on a side note...
+while being here...
 ========================
-> 17 years old
+> I'm 17 years old
 > 
-> CompSci Student
+> Currently a CompSci Student
 > 
-> United Kingdom
+> Based in United Kingdom
 ---------------
 
 
